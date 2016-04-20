@@ -5,6 +5,8 @@ __author__ = 'zky@msn.cn (CarreyZhan)'
 
 import sys
 sys.path.append('../')
+sys.path.append('../third_party/')
+sys.path.append('../third_party/hbase/gen-py/')
 
 from model_base import *
 
