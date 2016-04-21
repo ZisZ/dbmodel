@@ -4,3 +4,5 @@
 
 访问Mysql时通过MySQLdb；
 访问HBase时通过HBase Thrift Server；
+
+非线程安全；
